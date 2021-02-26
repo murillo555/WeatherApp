@@ -1,0 +1,17 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Console Weather App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Gabriel Murillo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.3"
+  }
+}
